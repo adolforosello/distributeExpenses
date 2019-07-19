@@ -1,0 +1,57 @@
+html{
+	font-size: 10px;
+	font-family: "Impact";
+	font-style: italic;
+}
+body{
+	background-image: url("");
+}
+
+div {
+	border:0.1rem solid black;
+}
+header{
+	font-size: 2rem;
+	border: 0.1rem solid black;
+	color: #000000;
+}
+content {
+		
+	background-color: yellow;
+	border: 0.1rem solid black;
+}
+
+footer {
+	border: 0.1rem solid black;
+}
+
+div.form{
+	width: 50%;
+	margin: 0.5rem;
+	border: 0.1rem solid black;
+	border-radius: 0.5rem;
+}
+
+div.usersList{
+	width: 50%;
+	margin: 0.5rem;
+	border: 0.1rem solid black;
+	border-radius: 0.5rem;
+}
+button {
+	border-radius: 2rem;
+	background-image:  url("../img/addButton.jpg");
+}
+
+img.imageButton {
+	width: 10rem;
+	height: 10rem;
+}
+
+label{
+	font-size: 2rem;
+}
+
+ul{
+	font-size: 2rem;	
+}

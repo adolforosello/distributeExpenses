@@ -26,7 +26,7 @@ function addUser(){
 		}
 }
 
-addUserButton=document.getElementById("agreeButton");
+addUserButton=document.getElementById("addButton");
 addUserButton.addEventListener("click",addUser);
 
 function sumInvestment(){
